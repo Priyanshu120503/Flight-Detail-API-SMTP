@@ -8,6 +8,7 @@ First one should have name 'prices' and 3 columns with headings:
 
 The name of destination cities can be filled in the first column
 
+
 The second sheet must be named 'users' and 3 columns with headings:
 --> First Name
 --> Last Name
@@ -24,3 +25,5 @@ The second sheet must be named 'users' and 3 columns with headings:
 
 ## Spreadsheet 2: 'users'
 ![Example of google sheet](https://github.com/Priyanshu120503/Flight-Detail-API-SMTP/blob/main/images/screenshot_3.png)
+
+
