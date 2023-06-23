@@ -1,10 +1,10 @@
 # Flight Detail (API, SMTP)
 
 There must be 2 google sheets
-First one should have name 'prices' and 3 columns with headings:
---> 'City'
---> 'IATA Code'
---> 'Lowest Price'
+First one should have name 'prices' and 3 columns with headings:<br>
+--> 'City'<br>
+--> 'IATA Code'<br>
+--> 'Lowest Price'<br>
 
 The name of destination cities can be filled in the first column
 
