@@ -17,7 +17,7 @@ The second sheet must be named 'users' and 3 columns with headings:
 ## Spreadsheet 1: 'prices'
 
 ### Initial Sheet
-![Example of google sheet](https://github.com/Priyanshu120503/Flight-Detail-API-SMTP/blob/main/images/screenshot_1.png)
+![Example of google sheet](./images/screenshot_1.png)
 
 ### Final Sheet (after execution of program)
 ![Example of google sheet](https://github.com/Priyanshu120503/Flight-Detail-API-SMTP/blob/main/images/screenshot_2.png)
